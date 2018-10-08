@@ -11,9 +11,9 @@
   "flywheel": {
     "suite": "MRtrix"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "custom": {
-    "docker-image": "scitran/mrtrix3preproc:1.0.0"
+    "docker-image": "scitran/mrtrix3preproc:1.0.1"
   },
   "config": {
     "rpe": {
